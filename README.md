@@ -1,2 +1,3 @@
-# Quiz2
-Add answer file
+# uiz2
+2020q3 Homework2 (quiz2)
+https://hackmd.io/k5EwLuNTSjyt5NkFnofimg?view
